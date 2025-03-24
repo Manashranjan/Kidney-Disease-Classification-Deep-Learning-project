@@ -20,7 +20,7 @@ conda activate kidney
 ```
 
 ...
-### STEP 02 - Istall the Rquirements
+### STEP 02 - Install the Requirements
 ```bash
 pip install -r requirements.txt
 ```
